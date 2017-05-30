@@ -1,0 +1,23 @@
+{
+  "name": "ffswap",
+  "version": "1.0.0",
+  "description": "Fantasy Football Trade helper in Slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ejnelson/FFSwap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ejnelson/FFSwap/issues"
+  },
+  "homepage": "https://github.com/ejnelson/FFSwap#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
